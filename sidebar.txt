@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqr:home|Door43 (mqr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqr|d43-mqr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqr/archive/master.zip|d43-mqr.zip]]
+
+**Recent Changes**
+{{changes>ns = mqr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqr|Ethnologue data]]
+
